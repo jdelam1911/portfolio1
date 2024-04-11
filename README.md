@@ -17,3 +17,7 @@ Refer to the repo
 ## Screenshot!
 
 (http://full/path/to/<img width="700" alt="Screenshot 2024-04-11 at 12 45 52 AM" src="https://github.com/jdelam1911/portfolio1/assets/145811498/77394095-5e03-43fe-af08-a80f91335246">
+
+## Sources of Help/Inspiration/Tips
+
+https://youtu.be/RroDdybvu5s?si=DqPLmW5A6KHIoorK
