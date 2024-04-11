@@ -1,13 +1,13 @@
 # Mock Portfolio!!
 
-##Use
+#Use
 
 To be able to get in the groove of deploying a nice portfolio website!
 
-##Link
+#Link
 
 To be added here soon
 
-##License
+#License
 
 Refer to the repo
